@@ -1,0 +1,15 @@
+items:
+  - title: dashboards
+    url: /pages/dashboard/
+  - title: content
+    url: /pages/content/
+  - title: data
+    url: /pages/data/
+  - title: uploads
+    url: /pages/uploads/
+  - title: users
+    url: /pages/users/
+  - title: forms
+    url: /pages/forms/
+  - title: statistics
+    url: /pages/statistics/daytraffic/
